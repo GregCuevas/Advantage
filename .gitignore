@@ -1,2 +1,3 @@
 # Ignorar configuraciones locales de VSCode
 .vscode/
+.vercel
